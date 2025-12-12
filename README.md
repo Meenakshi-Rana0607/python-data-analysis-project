@@ -32,5 +32,51 @@ Useful for students, data analysts, and beginners learning Python data analysis.
 | **matplotlib** | Plot rendering                |
 
 # 🔧 Setup Instructions
+1️⃣ Clone the Repository
 ```bash
+https://github.com/Meenakshi-Rana0607/python-data-analysis-project.git
+```
+2️⃣ Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+3️⃣ Add Data File
+Place Tech_Companies.csv inside the data/ folder
+4️⃣ Run the Script
+```bash
+python project.py
+```
+# 📊 Project Features
 
+- Clean and modular code
+
+- Error handling for missing files
+
+- Auto-save visualization feature
+
+- Ready for scaling to more charts
+
+- Beginner-friendly and well commented
+
+# 🤝 Contributing
+
+Contributions are welcome!
+You can:
+
+- Improve visualizations
+
+- Add new analysis modules
+
+- Clean data or feature-engineer new columns
+
+- Add machine learning models
+
+Just submit a Pull Request.
+
+# 📜 License
+
+This project is licensed under the MIT License, meaning it is free for personal and academic use.
+
+# ⭐ Support
+
+If this project helps you, give it a ⭐ on GitHub!
