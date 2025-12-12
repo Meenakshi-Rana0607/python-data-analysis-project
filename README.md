@@ -22,4 +22,15 @@ This project performs:
 
 ✔️ Organized, production-ready Python code
 
+# 🛠️ Technologies Used
 Useful for students, data analysts, and beginners learning Python data analysis.
+| Library        | Purpose                       |
+| -------------- | ----------------------------- |
+| **pandas**     | Data loading & manipulation   |
+| **numpy**      | Numerical operations          |
+| **seaborn**    | High-level data visualization |
+| **matplotlib** | Plot rendering                |
+
+# 🔧 Setup Instructions
+```bash
+
